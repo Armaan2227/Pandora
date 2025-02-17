@@ -1,4 +1,4 @@
-About Me
+chain: About Me
 ________________________________________
 Hi, I’m Armaan Bhandari
 A Mechanical Engineer, Problem Solver, and Tech Enthusiast based in Dehradun, India. I’m passionate about understanding the core principles of mechanical engineering and applying them to solve real-world problems. I am particularly keen on integrating advanced technologies into classical mechanical engineering to give it a new edge, pushing the boundaries of what is possible in the field.
