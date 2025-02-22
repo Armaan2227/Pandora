@@ -16,14 +16,14 @@ Description:
 -	The previous motor controller had an efficiency of 86.5%, with MOSFETs identified as critical heat spots due to inadequate airflow and localized overheating. The redesigned controller significantly enhances thermal performance, increasing efficiency from 86.5% to 93.3%, effectively minimizing energy loss and improving overall reliability.
    
 
-![ ](before.jpg)                                                            ![](Picture2.png)
+![ ](before.jpg)  ![](Picture2.png)
 
-Fig.1 Thermal image of previous controller                                Fig.2 Heat sink simulation                          
+Fig.1 Thermal image of previous controller_______________________________Fig.2 Heat sink simulation                          
 
 
-![](Picture3.png)                                                           ![](Picture4.png)
+![](Picture3.png) ![](Picture4.png)
 
-Fig.3 Icepak simulation of controller                                   Fig.3 Thermal image of new controller                                   
+Fig.3 Icepak simulation of controller____________________________Fig.4 Thermal image of new controller                                   
 
 Improvement :
 -	Adequate spacing between MOSFETs enhances airflow, ensuring efficient heat dissipation through convection.
